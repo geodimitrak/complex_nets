@@ -1,2 +1,8 @@
-# complex_nets
-Data and code for book: Modeling and Analysis of Complex Networks in Molecular Biology and Neuroscience
+# Modeling and Analysis of Complex Networks in Molecular Biology and Neuroscience
+Data and code for the book
+
+# Μοντελοποίηση και Ανάλυση Πολύπλοκων Δικτύων της Μοριακής Βιολογίας και των Νευροεπιστημόνων
+Δεδομένα και κώδικας γαι το βιβλίο
+
+# Αναφορά
+Βραχάτης, Α., Δημητρακόπουλος, Γ., & Βλάμος, Π. (2024). Μοντελοποίηση και Ανάλυση Πολύπλοκων Δικτύων της Μοριακής Βιολογίας και των Νευροεπιστημών [Μεταπτυχιακό εγχειρίδιο]. Κάλλιπος, Ανοικτές Ακαδημαϊκές Εκδόσεις.
